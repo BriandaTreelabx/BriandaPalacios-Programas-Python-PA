@@ -1,7 +1,7 @@
 # Programas de la materia de Computación Aplicada
 
-- Nombre: Jessica Castañeda 
-- Email: jesscastaneda2001@gmail.com
+- Nombre: Brianda Gabriela Herrera Palacios
+- Email: bghp.brian@gmail.com
 
 ## Actividad 2: Elementos Básicos (Parte I)
 - p001-hola-mundo.py
