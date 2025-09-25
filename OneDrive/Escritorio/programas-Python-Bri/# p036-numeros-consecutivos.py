@@ -1,0 +1,10 @@
+# Programa que determina si tres números son consecutivos
+
+a = int(input("Ingresa el primer número: "))
+b = int(input("Ingresa el segundo número: "))
+c = int(input("Ingresa el tercer número: "))
+
+if b == a + 1 and c == b + 1:
+    print("Los números son consecutivos.")
+else:
+    print("Los números no son consecutivos.")
